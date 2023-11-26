@@ -1,0 +1,8 @@
+{
+    "name": "ic",
+    "displayName":  "铁工艺",
+    "author":"MC_The_End",
+    "description":"[cyan]围绕一块铁展开的故事",
+    "version":"19",
+    "minGameVersion":"136",//建议137
+}
